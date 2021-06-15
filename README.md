@@ -1,7 +1,7 @@
 # Open Weather API
 
 
-<img src="images/weather.jpg" width ="500">
+<img src="images/weather.jpg" width ="100">
 
 ## Description
 
