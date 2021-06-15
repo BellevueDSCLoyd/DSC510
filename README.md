@@ -9,6 +9,6 @@ Python [code](openweatherapi.py) to pull location specific weather information f
 
 ## Screenshot of code being executed from PyCharm
 
-<img src="images/capture_example.png" width ="500">
+<img src="images/capture_example.png">
 
 
