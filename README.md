@@ -9,7 +9,7 @@ Python [code](code/openweatherapi.py) to pull location specific weather informat
 
 ## Screenshots
 
-Here is one of the simplest execution of the program
+Here is one of the simplest executions of the program
 
 <img src="images/capture_example.PNG">
 
