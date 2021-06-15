@@ -5,4 +5,4 @@
 
 ## Description
 
-Python code to pull location specific weather information from the Open Weather API
+Python [code](openweather.py] to pull location specific weather information from the Open Weather API
