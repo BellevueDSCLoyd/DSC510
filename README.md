@@ -5,9 +5,11 @@
 
 ## Description
 
-Python [code](openweatherapi.py) to pull location specific weather information from the Open Weather API
+Python [code](code/openweatherapi.py) to pull location specific weather information from the Open Weather API
 
-## Screenshot of code being executed from PyCharm
+## Screenshots
+
+Here is one of the simplest execution of the pgram
 
 <img src="images/capture_example.PNG">
 
