@@ -1,3 +1,3 @@
-# Weather Channel API
+# Open Weather API
 
-Python code to pull location specific weather information from the Weather Channel's API
+Python code to pull location specific weather information from the Open Weather API
