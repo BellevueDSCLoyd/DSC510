@@ -5,6 +5,7 @@
   Desc:  This program uses an api call to open weather at http://api.openweathermap.org.
  Usage:  You can run this program by calling its name and answering prompts as instructed.
       :  Requires os, requests, iso3166, textwrap and zipcodes, and datetime packages be installed
+ Notes:  I tried to include an example from each week in the course.
 '''
 
 
@@ -252,7 +253,8 @@ def zipLookup():
             else:
                 print(numericMessage)
                 continue
-            validZip = zipcodes.filter_by(city=userInput.upper())
+            userInput = userInput.join(w.capitalize() for w in userInput.split())
+            validZip = zipcodes.filter_by(city=userInput)
             if validZip == []:
                 print("City not found.")
                 continue
@@ -282,7 +284,8 @@ def byCity(userInput):
                   "City comma US can disable validation.\nExample: 10001 or jackson,us"
     cityNotFound = "City not found. Outside the US or to disable module validation, use city and comma with "\
                    "two character country code.\nExample:paris,fr or juno,us"
-    validZip = zipcodes.filter_by(city=userInput.upper())
+    userInput = userInput.join(w.capitalize() for w in userInput.split())
+    validZip = zipcodes.filter_by(city=userInput)
     if validZip == []:
         data_error(cityNotFound)
         return 0
