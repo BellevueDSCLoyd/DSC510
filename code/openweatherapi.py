@@ -253,7 +253,8 @@ def zipLookup():
             else:
                 print(numericMessage)
                 continue
-            userInput = userInput.join(w.capitalize() for w in userInput.split())
+            userInput = ' '.join(w.capitalize() for w in userInput.split())
+            # print(userInput)
             validZip = zipcodes.filter_by(city=userInput)
             if validZip == []:
                 print("City not found.")
@@ -284,7 +285,7 @@ def byCity(userInput):
                   "City comma US can disable validation.\nExample: 10001 or jackson,us"
     cityNotFound = "City not found. Outside the US or to disable module validation, use city and comma with "\
                    "two character country code.\nExample:paris,fr or juno,us"
-    userInput = userInput.join(w.capitalize() for w in userInput.split())
+    userInput = ' '.join(w.capitalize() for w in userInput.split())
     validZip = zipcodes.filter_by(city=userInput)
     if validZip == []:
         data_error(cityNotFound)
