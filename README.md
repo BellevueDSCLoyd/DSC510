@@ -11,4 +11,10 @@ Python [code](openweatherapi.py) to pull location specific weather information f
 
 <img src="images/capture_example.PNG">
 
+## Requirements
 
+Python
+
+## Library Requirements
+
+requests, textwrap, iso3166, zipcodes (pypi.org), os, and datetime
