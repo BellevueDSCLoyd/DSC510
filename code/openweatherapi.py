@@ -4,8 +4,7 @@
   Date:  May 26, 2019
   Desc:  This program uses an api call to open weather at http://api.openweathermap.org.
  Usage:  You can run this program by calling its name and answering prompts as instructed.
-      :  Requires os, requests, iso3166, textwrap and zipcodes, and datetime packages be installed
- Notes:  I tried to include an example from each week in the course.
+      :  Requires os, requests, iso3166, textwrap and zipcodes, and datetime packages be installed 
 '''
 
 
