@@ -9,7 +9,7 @@ Python [code](code/openweatherapi.py) to pull location specific weather informat
 
 ## Screenshots
 
-Here is one of the simplest execution of the pgram
+Here is one of the simplest execution of the program
 
 <img src="images/capture_example.PNG">
 
@@ -19,4 +19,9 @@ Python
 
 ## Library Requirements
 
-requests, textwrap, iso3166, zipcodes (pypi.org), os, and datetime
+* requests
+* textwrap
+* iso3166
+* zipcodes (avaiable from pypi.org)
+* os
+* datetime

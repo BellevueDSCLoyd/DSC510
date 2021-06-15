@@ -1,8 +1,7 @@
 '''
-  File:  Assignment12_1.py
+  File:  openweatherapi.py
   Name:  Sam Loyd
   Date:  May 26, 2019
-Course:  DSC510-T301 Introduction to Programming
   Desc:  This program uses an api call to open weather at http://api.openweathermap.org.
  Usage:  You can run this program by calling its name and answering prompts as instructed.
       :  Requires os, requests, iso3166, textwrap and zipcodes, and datetime packages be installed
