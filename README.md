@@ -1,13 +1,12 @@
 # Open Weather API
 
-
 <img src="images/weather.jpg" width ="250">
 
 ## Description
 
 Python [code](code/openweatherapi.py) to pull location specific weather information from the Open Weather API. 
 
-* Note: You will need to retrieve an API key from http://api.openweathermap.org and replace the apiKey value.
+* Security note: You will need to retrieve an API key from http://api.openweathermap.org and replace the apiKey value.
 
 ## Screenshots
 
