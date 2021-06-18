@@ -165,7 +165,7 @@ def call_url(completeUrl, instance):
 
 # function that builds URL based on type of data provided by user
 def createUrl(userInput):
-    apiKey = "fc97a039291d092e50e1ec694e3b206b"
+    apiKey = "***************************"
     weatherUrl = "http://api.openweathermap.org/data/2.5/weather"
     tryResp = "Trying call to {}. Please wait ...".format(weatherUrl)
     print(tryResp)
