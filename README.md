@@ -13,9 +13,10 @@ Here is one of the simplest executions of the program
 
 <img src="images/capture_example.PNG">
 
-## Requirements
+## Tools
 
-Python
+* Python
+* Pycharm
 
 ## Library Requirements
 
