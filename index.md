@@ -14,6 +14,10 @@ Here is one of the simplest executions of the program
 
 <img src="images/capture_example.PNG">
 
+## Installation
+
+Install Python, download code, acquire an API key, modify that section of the code and run.
+
 ## Tools
 
 * Python
