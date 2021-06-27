@@ -40,4 +40,4 @@ Install Python, download code, acquire an API key, modify that section of the co
 
 ## Credits
 
-_Weather [image](https://unsplash.com/photos/uu-Jw5SunYI) by Max LaRochelle at [Unsplash](https://unsplash.com/)
+_Weather [image](https://unsplash.com/photos/uu-Jw5SunYI) by Max LaRochelle at [Unsplash](https://unsplash.com/)_
