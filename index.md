@@ -14,6 +14,10 @@ Here is one of the simplest executions of the program
 
 <img src="images/capture_example.PNG">
 
+## Code 
+
+[Code](https://github.com/SDLoyd/OpenWeatherAPI/blob/main/code/openweatherapi.py)
+
 ## Instructions
 
 Install Python, download code, acquire an API key, modify that section of the code and run.
@@ -31,3 +35,7 @@ Install Python, download code, acquire an API key, modify that section of the co
 * zipcodes (avaiable from pypi.org)
 * os
 * datetime
+
+## Credits
+
+_Weather [image](https://unsplash.com/photos/uu-Jw5SunYI) by Max LaRochelle at [Unsplash](https://unsplash.com/)
