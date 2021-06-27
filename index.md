@@ -6,7 +6,7 @@
 
 Python [code](https://github.com/SDLoyd/OpenWeatherAPI/blob/main/code/openweatherapi.py) to pull location specific weather information from the Open Weather API. 
 
-* Security note: You will need to retrieve an API key from http://api.openweathermap.org and replace the apiKey value.
+* Security note: You will need to retrieve an API key from [OpenWeather](http://api.openweathermap.org) and replace the apiKey value.
 
 ## Screenshots
 
@@ -38,4 +38,4 @@ Install Python, download code, acquire an API key, modify that section of the co
 
 ## Credits
 
-_Weather [image](https://unsplash.com/photos/uu-Jw5SunYI) by Max LaRochelle at [Unsplash](https://unsplash.com/)
+_Weather [image](https://unsplash.com/photos/uu-Jw5SunYI) by Max LaRochelle at [Unsplash](https://unsplash.com/)_
